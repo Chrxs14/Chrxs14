@@ -32,6 +32,21 @@ I have studied programming since I was 15 years old, learning about the basics o
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+## **Projects :eyes:**
+<ol>
+ <li>
+  <a href="https://chrxs14.github.io/portafolio/">Portfolio:</a> Portfolio of personal projects.
+ </li>
+ <li>
+  <a href="https://chrxs14.github.io/app-clima/">Weather App:</a> Application made in react that allows you to check the weather of different cities around the world using the OpenWeather API.
+ </li>
+ <li>
+  <a href="https://to-do-list-chrxs14.vercel.app/">ToDo App:</a> ToDo app, allows us to create a list of things to do and these are saved locally on our device so as not to lose the notes when reloading the website.
+ </li>
+ <li>
+  <a href="https://movieappbychrxs.netlify.app/">Movie App:</a> Website that allows us to consult all the information of a movie or to know the movies that are trending around the world. This website was made with the help of TheMovieDB API.
+ </li>
+</ol>
 
 ##  Contact Me :speech_balloon:
 [![Twitter Badge](https://img.shields.io/badge/-@ChrisSt03-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChrisSt03)](https://twitter.com/ChrisSt03) [![Linkedin Badge](https://img.shields.io/badge/-Christopher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christoper-o/)](https://www.linkedin.com/in/christoper-o/) [![Instagram Badge](https://img.shields.io/badge/-@ochoa.christopher-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ochoa.christopher/)](https://www.instagram.com/ochoa.christopher)
