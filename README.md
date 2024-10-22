@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-## About :ghost:
+## About Me
 Test Automation Engineer at Globant, a global digital and technology services company. I'm studying software engineering at the University of Guayaquil, where I have acquired knowledge and skills in programming, design, analysis and management of software projects. At Globant, I work with multidisciplinary teams, applying agile methodologies and automation tools to guarantee the quality and performance of the solutions we develop. I'm passionate about innovation, continuous learning and improving processes and user experiences. My goal is to continue growing as a professional and contribute to the success of Globant and its clients with my commitment, creativity and responsibility.
 
 
