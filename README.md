@@ -17,36 +17,9 @@
 <br/>
 
 ## About :ghost:
-Hi, I'm Christopher. Software engineering student at the University of Guayaquil.
-
-I have studied programming since I was 15 years old, learning about the basics of programming languages such as JavaScript, Python or C++. Throughout my preparation as a developer I have created personal projects that help me keep my logic as a programmer in constant practice and in the same way to be updated with the latest news of certain technologies.
+Test Automation Engineer at Globant, a global digital and technology services company. I'm studying software engineering at the University of Guayaquil, where I have acquired knowledge and skills in programming, design, analysis and management of software projects. At Globant, I work with multidisciplinary teams, applying agile methodologies and automation tools to guarantee the quality and performance of the solutions we develop. I'm passionate about innovation, continuous learning and improving processes and user experiences. My goal is to continue growing as a professional and contribute to the success of Globant and its clients with my commitment, creativity and responsibility.
 
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-## **Projects :eyes:**
-<ol>
- <li>
-  <a href="https://chrxs14.github.io/portafolio/">Portfolio:</a> Portfolio of personal projects.
- </li>
- <li>
-  <a href="https://chrxs14.github.io/app-clima/">Weather App:</a> Application made in react that allows you to check the weather of different cities around the world using the OpenWeather API.
- </li>
- <li>
-  <a href="https://to-do-list-chrxs14.vercel.app/">ToDo App:</a> ToDo app, allows us to create a list of things to do and these are saved locally on our device so as not to lose the notes when reloading the website.
- </li>
- <li>
-  <a href="https://movieappbychrxs.netlify.app/">Movie App:</a> Website that allows us to consult all the information of a movie or to know the movies that are trending around the world. This website was made with the help of TheMovieDB API.
- </li>
-</ol>
 
 ##  Contact Me :speech_balloon:
 [![Twitter Badge](https://img.shields.io/badge/-@ChrisSt03-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChrisSt03)](https://twitter.com/ChrisSt03) [![Linkedin Badge](https://img.shields.io/badge/-Christopher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christoper-o/)](https://www.linkedin.com/in/christoper-o/) [![Instagram Badge](https://img.shields.io/badge/-@ochoa.christopher-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ochoa.christopher/)](https://www.instagram.com/ochoa.christopher)
